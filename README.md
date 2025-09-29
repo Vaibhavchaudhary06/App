@@ -78,13 +78,13 @@ cp .env.example .env
 # JWT_SECRET=<your-secret>
 npm run dev
 
-Backend runs at http://localhost:4000
+Backend runs at http://localhost:5173
 
 # 3. Frontend
 
 cd frontend
 npm install
-echo "VITE_API_URL=http://localhost:4000/api" > .env
+echo "VITE_API_URL=http://localhost:5173/api" > .env
 npm run dev
 
 Frontend runs at http://localhost:5173
@@ -313,5 +313,6 @@ Consistent error shape:
 
 ### Tasks
 ![Tasks](screenshots/tasks.png)
+
 
 
