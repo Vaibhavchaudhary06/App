@@ -1,4 +1,4 @@
-# Full-Stack Assignment – React + Node.js + MongoDB
+# Full-Stack Assignment  React + Node.js + MongoDB
 
 This project is a **full-stack web application** built as part of the Frontend Developer Assignment.  
 It includes a modern React frontend (Vite + TailwindCSS) and a Node.js/Express backend with MongoDB Atlas.  
@@ -313,4 +313,5 @@ Consistent error shape:
 
 ### Tasks
 ![Tasks](screenshots/tasks.png)
+
 
